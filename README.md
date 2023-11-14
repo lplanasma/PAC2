@@ -3,7 +3,8 @@
 
 Primera visualització assignada és el Bar Chart:
 
-![image](https://github.com/lplanasma/PAC2/assets/132501905/e2782cb7-2c48-4077-88b9-7c87e6ffa8af)
+![image](https://github.com/lplanasma/PAC2/assets/132501905/2cd93b8d-be87-4d1d-8482-baadf4215771)
+
 
 Segona visualització és el Gant Chart.
 
